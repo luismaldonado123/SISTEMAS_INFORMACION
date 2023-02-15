@@ -17,6 +17,3 @@ Luis Maldonado
 - p07-operadores-asignacion
 - p08-funciones-trigonometricas
 - p09-dividir-en-cifras
-- p10 
-- p11
-- p12
