@@ -18,6 +18,7 @@ Luis Maldonado
 - p08-funciones-trigonometricas
 - p09-dividir-en-cifras
 - p10-trabajando-enteros
+## Actividad 3 (16/02/23)
 - p11-trabajando-flotantes
 - p12-trabajando-constantes
 - p13-trabajando-caracter
