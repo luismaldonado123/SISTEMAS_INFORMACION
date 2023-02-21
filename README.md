@@ -18,3 +18,19 @@ Luis Maldonado
 - p08-funciones-trigonometricas
 - p09-dividir-en-cifras
 - p10-trabajando-enteros
+- p11-trabajando-flotantes
+- p12-trabajando-constantes
+- p13-trabajando-caracter
+- p14-conversion-tipos
+## Tarea 1 Elementos básicos
+- p15-Hipotenusa-Triangulo
+- p16
+- p17
+- p18
+- p19
+- p20
+## Actividad 4(21/02/23)
+- p21-verificar-numero
+- p22-verifica-suma
+- p23-convertir-temperaturas
+- p24-paga-extra
