@@ -25,11 +25,11 @@ Luis Maldonado
 - p14-conversion-tipos
 ## Tarea 1 Elementos básicos
 - p15-Hipotenusa-Triangulo
-- p16
-- p17
-- p18
-- p19
-- p20
+- p16-Calcular-angulo
+- p17-convertir-temperatura
+- p18-volumen-cilindro
+- p19-calculo-tiempo
+- p20-convertir-a-dolares
 ## Actividad 4(21/02/23)
 - p21-verificar-numero
 - p22-verifica-suma
