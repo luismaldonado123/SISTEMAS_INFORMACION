@@ -35,3 +35,8 @@ Luis Maldonado
 - p22-verifica-suma
 - p23-convertir-temperaturas
 - p24-paga-extra
+## Actividad 5(23/02/23)
+- p25-estaciones-año
+- p26-tipo-angulo
+- p27-aceptar-estudiante
+- p28-ley-de-newton
