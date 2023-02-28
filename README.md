@@ -40,3 +40,8 @@ Luis Maldonado
 - p26-tipo-angulo
 - p27-aceptar-estudiante
 - p28-ley-de-newton
+## Actividad 6(28/02/23)
+- p29-calculadora
+- 30-dia-semana
+- p31-numeros-romanos
+- p32-pago-estacionamiento
