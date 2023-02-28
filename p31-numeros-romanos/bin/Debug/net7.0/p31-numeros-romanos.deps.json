@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "p31-numeros-romanos/1.0.0": {
+        "runtime": {
+          "p31-numeros-romanos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p31-numeros-romanos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
