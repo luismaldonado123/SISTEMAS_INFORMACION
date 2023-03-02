@@ -45,3 +45,5 @@ Luis Maldonado
 - 30-dia-semana
 - p31-numeros-romanos
 - p32-pago-estacionamiento
+## Actividad 7(02/03/23)
+- p39-repas-parcial-1
