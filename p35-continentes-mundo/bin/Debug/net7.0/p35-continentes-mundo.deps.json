@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "p35-continentes-mundo/1.0.0": {
+        "runtime": {
+          "p35-continentes-mundo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p35-continentes-mundo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
