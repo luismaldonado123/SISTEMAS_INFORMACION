@@ -45,5 +45,12 @@ Luis Maldonado
 - 30-dia-semana
 - p31-numeros-romanos
 - p32-pago-estacionamiento
+## Tarea 2 Ejecucion Condicional(05/03/23)
+- p33-numeros-consecutivos
+- p34-numero-mayor
+- p35-continentes-mundo
+- p36-compra-pizza
+- p37-calculo-notas
+- p38-aceptar-estudiante-v2
 ## Actividad 7(02/03/23)
 - p39-repas-parcial-1
