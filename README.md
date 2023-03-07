@@ -54,3 +54,5 @@ Luis Maldonado
 - p38-aceptar-estudiante-v2
 ## Actividad 7(02/03/23)
 - p39-repas-parcial-1
+## Actividad 8(07/03/23)
+- p40-primer-examen-parcial
