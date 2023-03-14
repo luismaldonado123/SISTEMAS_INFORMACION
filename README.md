@@ -62,3 +62,8 @@ Luis Maldonado
  - p43-procesa-calificaciones
  - p44-tabla-multiplicar
  - p45-conteo-numeros
+## Actividad 9(14/03/23)
+ - p46-pares-ascendente
+ - p47-impares-descendente
+ - p48-tabla-conversion
+ - p49-conjetura-de-collatz
