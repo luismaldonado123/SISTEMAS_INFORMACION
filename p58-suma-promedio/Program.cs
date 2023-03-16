@@ -3,6 +3,7 @@ int n;
 float cal, suma, prom;
 char resp;
 do {
+    suma=0;
     Console.Clear();
     suma=prom=0;
     Console.WriteLine("Suma y promedio de n calificaciones: \n");
