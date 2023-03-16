@@ -67,3 +67,9 @@ Luis Maldonado
  - p47-impares-descendente
  - p48-tabla-conversion
  - p49-conjetura-de-collatz
+## Actividad 10(16/03/23)
+ - p54-numeros-1-n
+ - p55-numeros-n-1
+ - p56-arriba-abajo
+ - p57-suma-pares-impares
+ - p58-suma-promedio
