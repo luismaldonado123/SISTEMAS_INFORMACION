@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "p52-convertidor-temperaturas/1.0.0": {
+        "runtime": {
+          "p52-convertidor-temperaturas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p52-convertidor-temperaturas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
