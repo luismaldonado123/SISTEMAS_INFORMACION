@@ -67,6 +67,11 @@ Luis Maldonado
  - p47-impares-descendente
  - p48-tabla-conversion
  - p49-conjetura-de-collatz
+ ## Tarea 3- Ejecucion-repetitiva-while(19/03/23)
+ - p50-impares-ascendente
+ - p51-pares-descendente
+ - p52-conversion-temperaturas
+ - p53-serie-fibonaci
 ## Actividad 10(16/03/23)
  - p54-numeros-1-n
  - p55-numeros-n-1
