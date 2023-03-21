@@ -80,7 +80,7 @@ Luis Maldonado
  - p58-suma-promedio
  
  
- ## Tarea 4-Ejecucion-repetitiva-for
+ ## Tarea 4-Ejecucion-repetitiva-for(26/03/23)
  - p63-secuencia-numeros-1
  - p64-secuencia-numeros-2
  - p65-suma-terminos-1
