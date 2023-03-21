@@ -78,3 +78,10 @@ Luis Maldonado
  - p56-arriba-abajo
  - p57-suma-pares-impares
  - p58-suma-promedio
+ 
+ 
+ ## Tarea 4-Ejecucion-repetitiva-for
+ - p63-secuencia-numeros-1
+ - p64-secuencia-numeros-2
+ - p65-suma-terminos-1
+ - p66-suma-terminos-2
