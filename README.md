@@ -88,3 +88,9 @@ Luis Maldonado
  - p64-secuencia-numeros-2
  - p65-suma-terminos-1
  - p66-suma-terminos-2
+ ## Actividad 12(28/03/23)
+ - p67-promedio-numeros
+ - p68-conversion-temperaturas
+ - p69-suma-rango
+ - p70-tabla-multiplicar
+ - p71-calificacion-letra
