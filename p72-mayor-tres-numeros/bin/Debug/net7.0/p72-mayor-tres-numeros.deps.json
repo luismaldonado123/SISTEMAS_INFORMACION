@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "p72-mayor-tres-numeros/1.0.0": {
+        "runtime": {
+          "p72-mayor-tres-numeros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p72-mayor-tres-numeros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
