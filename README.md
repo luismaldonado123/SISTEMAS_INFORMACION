@@ -101,5 +101,5 @@ Luis Maldonado
  - p75-factorial
  - p76-cuadro-caracter
  
- ##Tarea 14 repaso-segundo-parcial
+ ## Tarea 14 repaso-segundo-parcial
  - p82-Operaciones-basicas-sobre-arreglos
