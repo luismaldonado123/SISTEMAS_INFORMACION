@@ -100,6 +100,11 @@ Luis Maldonado
  - p74-suma-pares-impares
  - p75-factorial
  - p76-cuadro-caracter
- 
- ## Tarea 14 repaso-segundo-parcial
+ ## Tarea 5 funciones repaso
+ - p77-numero-menor
+ - p78-dia-semana
+ - p79-medidas-longitud
+ - p80-suma-multiplos
+ - p81-angulo
+ ## Actividad 14 repaso-segundo-parcial
  - p82-Operaciones-basicas-sobre-arreglos
