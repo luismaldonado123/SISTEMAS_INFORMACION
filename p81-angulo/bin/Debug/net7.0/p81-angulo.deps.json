@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "p81-angulo/1.0.0": {
+        "runtime": {
+          "p81-angulo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p81-angulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
