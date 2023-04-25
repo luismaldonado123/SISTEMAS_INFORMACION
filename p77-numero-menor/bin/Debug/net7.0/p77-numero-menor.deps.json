@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "p77-numero-menor/1.0.0": {
+        "runtime": {
+          "p77-numero-menor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p77-numero-menor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
