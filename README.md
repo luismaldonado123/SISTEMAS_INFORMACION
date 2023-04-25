@@ -108,3 +108,4 @@ Luis Maldonado
  - p81-angulo
  ## Actividad 14 repaso-segundo-parcial
  - p82-Operaciones-basicas-sobre-arreglos
+ ## Actividad 15 segundo examen parcial(25/04/23)
